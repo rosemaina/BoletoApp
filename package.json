@@ -1,0 +1,11 @@
+{
+  "name": "boletocloud",
+  "version": "0.0.1",
+  "description": "cloud functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "me",
+  "license": "ISC"
+}
